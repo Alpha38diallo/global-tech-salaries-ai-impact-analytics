@@ -38,6 +38,11 @@ Contains information about:
 - Number of jobs eliminated
 - Workforce impact percentages
 
+## Data Sources
+
+- Global Tech Salaries Dataset: [Kaggle Dataset Link]
+- AI Layoffs Dataset: [Kaggle Dataset Link]
+
 ---
 
 ## Project Architecture
