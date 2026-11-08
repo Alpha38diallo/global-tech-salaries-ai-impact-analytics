@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/raw/
+data/proces*ed/
+
+# Database
+database/*.db
+
+# Logs
+logs/
+*.log
+
+# Visualizations
+visualizations/*.png
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
