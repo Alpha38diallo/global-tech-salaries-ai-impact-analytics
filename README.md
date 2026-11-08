@@ -214,24 +214,31 @@ python src/pipeline.py
 ```
 
 ---
+## Visualizations Preview
 
-## Visualizations
+### Top Paying Tech Jobs
 
-Generated automatically inside:
+![Top Paying Jobs](visualizations/top_jobs.png)
 
-```text
-visualizations/
-```
+### Top Paying Countries
 
-Files:
+![Top Paying Countries](visualizations/top_countries.png)
 
-- top_jobs.png
-- top_countries.png
-- experience_salary.png
-- ai_top_companies.png
-- ai_top_countries.png
-- ai_top_sectors.png
+### Salary by Experience Level
 
+![Salary by Experience](visualizations/experience_salary.png)
+
+### AI Layoffs by Company
+
+![AI Companies](visualizations/ai_top_companies.png)
+
+### AI Layoffs by Country
+
+![AI Countries](visualizations/ai_top_countries.png)
+
+### AI Layoffs by Sector
+
+![AI Sectors](visualizations/ai_top_sectors.png)
 ---
 
 ## Author

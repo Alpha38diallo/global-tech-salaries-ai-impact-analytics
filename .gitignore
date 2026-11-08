@@ -16,9 +16,6 @@ database/*.db
 logs/
 *.log
 
-# Visualizations
-visualizations/*.png
-
 # Environment Variables
 .env
 
